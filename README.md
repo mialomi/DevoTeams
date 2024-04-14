@@ -40,5 +40,7 @@ Before you get started with **Squeeze My Task**, please ensure that you have [XA
     
 3.  Open your web browser and access **Squeeze My Task** by visiting `http://localhost/squeeze-my-task` in your web browser. Adjust the URL if you placed the project files in a subdirectory within "htdocs."
     
+4. Enjoy this app!
 
 Now you can start using **Squeeze My Task** to manage your daily tasks locally using XAMPP.
+		
